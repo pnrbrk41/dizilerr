@@ -1,0 +1,15 @@
+C:\Users\Burak\Documents\GitHub\dizilerr\bin\Debug\net6.0\dizilerr.exe
+C:\Users\Burak\Documents\GitHub\dizilerr\bin\Debug\net6.0\dizilerr.deps.json
+C:\Users\Burak\Documents\GitHub\dizilerr\bin\Debug\net6.0\dizilerr.runtimeconfig.json
+C:\Users\Burak\Documents\GitHub\dizilerr\bin\Debug\net6.0\dizilerr.dll
+C:\Users\Burak\Documents\GitHub\dizilerr\bin\Debug\net6.0\dizilerr.pdb
+C:\Users\Burak\Documents\GitHub\dizilerr\obj\Debug\net6.0\dizilerr.csproj.AssemblyReference.cache
+C:\Users\Burak\Documents\GitHub\dizilerr\obj\Debug\net6.0\dizilerr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Documents\GitHub\dizilerr\obj\Debug\net6.0\dizilerr.AssemblyInfoInputs.cache
+C:\Users\Burak\Documents\GitHub\dizilerr\obj\Debug\net6.0\dizilerr.AssemblyInfo.cs
+C:\Users\Burak\Documents\GitHub\dizilerr\obj\Debug\net6.0\dizilerr.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Documents\GitHub\dizilerr\obj\Debug\net6.0\dizilerr.dll
+C:\Users\Burak\Documents\GitHub\dizilerr\obj\Debug\net6.0\refint\dizilerr.dll
+C:\Users\Burak\Documents\GitHub\dizilerr\obj\Debug\net6.0\dizilerr.pdb
+C:\Users\Burak\Documents\GitHub\dizilerr\obj\Debug\net6.0\dizilerr.genruntimeconfig.cache
+C:\Users\Burak\Documents\GitHub\dizilerr\obj\Debug\net6.0\ref\dizilerr.dll
